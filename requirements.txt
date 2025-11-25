@@ -18,6 +18,10 @@ pyyaml>=6.0
 # Utilities
 colorama>=0.4.6
 
+# Build Dependencies (optional - for creating executables)
+# pyinstaller>=6.0.0
+# pillow>=9.0.0  # For icon creation
+
 # Development Dependencies (optional)
 # pytest>=7.2.0
 # black>=22.0.0
