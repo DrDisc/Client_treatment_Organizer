@@ -1,0 +1,25 @@
+# Core Dependencies
+python-dateutil>=2.8.2
+pathlib2>=2.3.7
+
+# File Handling
+python-docx>=0.8.11
+PyPDF2>=3.0.0
+
+# GUI (if using Tkinter, it's built-in to Python)
+# For cross-platform compatibility, consider PyQt5 or PySide2 in future
+
+# File System Monitoring
+watchdog>=3.0.0
+
+# Configuration
+pyyaml>=6.0
+
+# Utilities
+colorama>=0.4.6
+
+# Development Dependencies (optional)
+# pytest>=7.2.0
+# black>=22.0.0
+# flake8>=4.0.0
+# mypy>=0.990
